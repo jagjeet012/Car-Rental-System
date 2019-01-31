@@ -1,0 +1,26 @@
+.header{
+	background-color: #333;
+	color:#fff;
+	padding: 2%;
+	text-align: center;
+}
+
+.content{
+}
+
+header{
+	font-size: -webkit-xxx-large;
+}
+
+footer{
+	background-color: #333;
+	height: 10vh;
+	color:#fff;
+	padding: 0;
+	text-align: center;
+	position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+}
